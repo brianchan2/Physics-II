@@ -9,9 +9,7 @@ let q = 2.80 * 10 ** -9 // C
 
 // V = ?
 // V = k * q / r
-
+// Note: Direction does not matter in electric potential
 let V = (k * q) / r
 
 console.log(V)
-
-console.log((8.99 * 10**9) * (2.80 * 10 ** -9) / (14.9 * 10 **-2))
