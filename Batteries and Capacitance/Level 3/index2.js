@@ -5,7 +5,7 @@
 */
 
 let t = 3.5 * 10 ** -6 // s
-let w = 17.8 * t // j
+let w = 17.8 * t // j (p = w * v) watts is the unit for power
 let v = 9.00 // V
 let c = (2 * w) / (v ** 2)
 
